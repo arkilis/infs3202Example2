@@ -40,7 +40,7 @@
     [locationManager startRangingBeaconsInRegion:myBeaconRegion];
     [locationManager requestWhenInUseAuthorization];
     [locationManager requestAlwaysAuthorization];
-
+    
 }
 
 // When found region

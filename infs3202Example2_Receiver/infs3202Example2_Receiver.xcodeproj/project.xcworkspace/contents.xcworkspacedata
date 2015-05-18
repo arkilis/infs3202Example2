@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:infs3202Example1.xcodeproj">
+      location = "self:infs3202Example2_Receiver.xcodeproj">
    </FileRef>
 </Workspace>

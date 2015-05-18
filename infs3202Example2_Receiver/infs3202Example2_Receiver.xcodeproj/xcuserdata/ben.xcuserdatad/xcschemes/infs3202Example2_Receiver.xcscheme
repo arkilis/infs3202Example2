@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B56BBA7D1B08144D00E4572E"
-               BuildableName = "infs3202Example1.app"
-               BlueprintName = "infs3202Example1"
-               ReferencedContainer = "container:infs3202Example1.xcodeproj">
+               BlueprintIdentifier = "B596AFDC1B0A7F1C00E554E7"
+               BuildableName = "infs3202Example2_Receiver.app"
+               BlueprintName = "infs3202Example2_Receiver"
+               ReferencedContainer = "container:infs3202Example2_Receiver.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B56BBA991B08144E00E4572E"
-               BuildableName = "infs3202Example1Tests.xctest"
-               BlueprintName = "infs3202Example1Tests"
-               ReferencedContainer = "container:infs3202Example1.xcodeproj">
+               BlueprintIdentifier = "B596AFF81B0A7F1D00E554E7"
+               BuildableName = "infs3202Example2_ReceiverTests.xctest"
+               BlueprintName = "infs3202Example2_ReceiverTests"
+               ReferencedContainer = "container:infs3202Example2_Receiver.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B56BBA991B08144E00E4572E"
-               BuildableName = "infs3202Example1Tests.xctest"
-               BlueprintName = "infs3202Example1Tests"
-               ReferencedContainer = "container:infs3202Example1.xcodeproj">
+               BlueprintIdentifier = "B596AFF81B0A7F1D00E554E7"
+               BuildableName = "infs3202Example2_ReceiverTests.xctest"
+               BlueprintName = "infs3202Example2_ReceiverTests"
+               ReferencedContainer = "container:infs3202Example2_Receiver.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B56BBA7D1B08144D00E4572E"
-            BuildableName = "infs3202Example1.app"
-            BlueprintName = "infs3202Example1"
-            ReferencedContainer = "container:infs3202Example1.xcodeproj">
+            BlueprintIdentifier = "B596AFDC1B0A7F1C00E554E7"
+            BuildableName = "infs3202Example2_Receiver.app"
+            BlueprintName = "infs3202Example2_Receiver"
+            ReferencedContainer = "container:infs3202Example2_Receiver.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B56BBA7D1B08144D00E4572E"
-            BuildableName = "infs3202Example1.app"
-            BlueprintName = "infs3202Example1"
-            ReferencedContainer = "container:infs3202Example1.xcodeproj">
+            BlueprintIdentifier = "B596AFDC1B0A7F1C00E554E7"
+            BuildableName = "infs3202Example2_Receiver.app"
+            BlueprintName = "infs3202Example2_Receiver"
+            ReferencedContainer = "container:infs3202Example2_Receiver.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B56BBA7D1B08144D00E4572E"
-            BuildableName = "infs3202Example1.app"
-            BlueprintName = "infs3202Example1"
-            ReferencedContainer = "container:infs3202Example1.xcodeproj">
+            BlueprintIdentifier = "B596AFDC1B0A7F1C00E554E7"
+            BuildableName = "infs3202Example2_Receiver.app"
+            BlueprintName = "infs3202Example2_Receiver"
+            ReferencedContainer = "container:infs3202Example2_Receiver.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>infs3202Example1.xcscheme</key>
+		<key>infs3202Example2_Receiver.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B56BBA7D1B08144D00E4572E</key>
+		<key>B596AFDC1B0A7F1C00E554E7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B56BBA991B08144E00E4572E</key>
+		<key>B596AFF81B0A7F1D00E554E7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

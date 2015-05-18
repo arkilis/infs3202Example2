@@ -1,19 +1,19 @@
 //
-//  infs3202Example1Tests.m
-//  infs3202Example1Tests
+//  infs3202Example2_ReceiverTests.m
+//  infs3202Example2_ReceiverTests
 //
-//  Created by Ben Liu on 17/05/2015.
+//  Created by Ben Liu on 19/05/2015.
 //  Copyright (c) 2015 Ben Liu. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface infs3202Example1Tests : XCTestCase
+@interface infs3202Example2_ReceiverTests : XCTestCase
 
 @end
 
-@implementation infs3202Example1Tests
+@implementation infs3202Example2_ReceiverTests
 
 - (void)setUp {
     [super setUp];
