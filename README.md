@@ -1,4 +1,4 @@
-https://travis-ci.org/arkilis/infs3202Example2.svg?branch=master
+[![Build Status](https://travis-ci.org/arkilis/infs3202Example2.svg?branch=master)](https://travis-ci.org/arkilis/infs3202Example2)
 
 
 This code is for course INFS3202/7202 2015 University of Queensland
